@@ -8,9 +8,8 @@ import java.awt.event.*;
 /**
  * Breakout game class
  *
- * @author Vladyslav Marchenko & Andrii Sulimenko
- * @Files BrickBreaker.java
- * @Task The task is to make the classic arcade game "Breakout", which was developed by Steve Wozniak before the founding of Apple with Steve Jobs.      
+ * @author reqLane & Andrii Sulimenko
+ * @Files BrickBreaker.java      
  */
 
 //To run this program you need to run BrickBreaker.main() (on the left of the 18th line).
